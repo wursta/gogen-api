@@ -1,2 +1,1 @@
-# gogen_api
-API Generator
+# API Generator
